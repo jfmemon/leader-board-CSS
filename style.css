@@ -1,0 +1,34 @@
+body{
+    background: #F3F1FF;    
+}
+
+.top-player{
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 870px;
+    height: 679px;
+    background-color: #FFFFFF;
+    /* justify-content: center; */
+}
+
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 30px;
+    padding-top: 109px;
+}
+
+.player{
+    display: flex;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+
+.player-name{
+    margin-left: 16px;
+}
