@@ -158,10 +158,11 @@ hr{
     margin-top: 13px;
     font-size: 20px;
     font-weight: 500;
+    margin-bottom: -9px;
 }
 
 .blog-info p a{
-    margin-top: -18px;
+    margin-top: 18px;
     color: #562EFF;
     text-decoration: none;
 }
